@@ -66,7 +66,7 @@
 
 
 
-　　●　<WordPress×Gsap>多数アニメーションで実装したカフェサイト
+　　●　<WordPress×Gsap>多数アニメーションで実装した病院サイト
 
 　　サイトURL:
 　　github:
