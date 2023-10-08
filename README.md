@@ -117,7 +117,7 @@
 屋号名
 名前：鈴木稔博
 〒922-0403　石川県一白町1-23-1  
-E-mail：pokerusuu@gmail.com 
+E-mail：creationfolio@gmail.com 
 電話番号：080-8696-6384
 
 
