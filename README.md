@@ -72,8 +72,8 @@
 
 　　●　<WordPress×Gsap>多数アニメーションで実装した病院サイト
 
-　　サイトURL:http://cb223s.cloudfree.jp/
-　　github:
+　　サイトURL:
+　　http://cb223s.cloudfree.jp/
 
 
 
